@@ -6,7 +6,7 @@ The idea is simple: use the **right model for the right task** to improve cost, 
 
 ## Contents
 
-- `rfc-llm-router.md` — the main proposal
+- `SmartLLMRouter.md` — the main proposal
 - `llm_router.py` — an early prototype
 
 ## Status
@@ -23,4 +23,4 @@ The proposal explores:
 - custom endpoint support
 - smarter routing for subagents and different task types
 
-If you only read one file, start with `rfc-llm-router.md`.
+If you only read one file, start with `SmartLLMRouter.md`.
