@@ -3,6 +3,10 @@
 This repo contains a discussion draft for an intelligent LLM router for Hermes.
 
 The idea is simple: use the **right model for the right task** to improve cost, resilience, and flexibility.
+scan connected subscriptions for latest model addtions
+
+hot swap LLM during usage if api rates ltd, subscritpion token burned
+if user wants an answer using top model. 
 
 ## Contents
 
